@@ -8,9 +8,11 @@ For our first homework assignement, we were given an existing code and prompted 
 ## Mock-up
 
 [The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.]
+
 <img src="./assets/images/01-html-css-git-homework-demo.png"/>
 
 ## Link
 
 Link to the Github repo: https://github.com/tshen28/code-refactor
+
 Link to deployed site: https://tshen28.github.io/code-refactor/ 
